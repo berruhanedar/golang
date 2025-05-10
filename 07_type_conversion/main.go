@@ -50,4 +50,9 @@ func main() {
 	fmt.Println()
 	fmt.Printf("%v %T\n", str1, str1)
 
+	/*
+		106 int
+
+		j string  - ASCII    */
+
 }
